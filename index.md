@@ -15,7 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- the people in the class
+- extra things we don't learn in CS180
+- the fact that the instructors are students
 - List
 
 1. Numbered
